@@ -1,0 +1,22 @@
+body {
+ text-align: center;   
+}
+#app {
+ background-color: rgb(122, 122, 185);   
+}
+   #chatbot {
+    background-color: rgb(30, 30, 46);   
+   }
+#myCarousel {
+    background-color: rgb(4, 4, 22); 
+}
+#myCarousel img {
+    height: 300px ;
+    margin-top: 15px;
+
+}
+.carousel-inner p {
+    margin-top: 15px ;
+    color: rgb(129, 93, 238);
+    font-size: 20px ;
+}   
